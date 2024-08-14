@@ -6,7 +6,11 @@
 .home{
     width: 1440px;
     height: 4835px;
+<<<<<<< HEAD
     /* border: 5px solid; */
+=======
+    /*border: 5px solid;*/
+>>>>>>> 9046950b2184c0c2cb228e5fd45ef10dcd0d0090
     margin: 0px auto;
 }
 header{
